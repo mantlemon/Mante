@@ -1,2 +1,0 @@
-# Mante
-Cu.py
